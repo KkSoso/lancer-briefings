@@ -94,8 +94,13 @@ export default {
       "events": "",
       "missions": [
         {
+          "slug": "000",
+          "name": "Shuttle Rubble",
+          "status": "partial-success"
+        },
+        {
           "slug": "001",
-          "name": "Bug-Hunt",
+          "name": "If the Suit Fits",
           "status": "start"
         },
       ],
@@ -142,15 +147,15 @@ export default {
         },
       ],
       "header": {
-        "planet": "Hercynia",
-        "year": "5014u",
+        "planet": "None",
+        "year": "5007u",
         "system": "Ardennes-3",
         "gate": "Atlas-Quanokrim",
         "ring": "Atlas-Line",
-        "headerTitle": "Mirrorsmoke",
-        "headerSubtitle": "Mercenary Company",
+        "headerTitle": "Trunk Monkey",
+        "headerSubtitle": "Company",
         "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "subheaderSubtitle": "Papa-oscar-Echo",
       },
       "options":{
         "eventsMarkdownPerMission": true

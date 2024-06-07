@@ -108,7 +108,7 @@ export default {
         {
           "callsign": "Redcoat",
           "alias": "Reginald Eval",
-          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
+          "code": "SNDRLIE-AXM-YTN-POS-HCP-OOA-ENR///SCYTALE-8-CONCORDIA//SECRPNA-AIP-RXE-ETS-POP-HEA-OSR",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Spitfire"
@@ -116,7 +116,7 @@ export default {
         {
           "callsign": "Phoenix",
           "alias": "Ava Kalos",
-          "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
+          "code": "talae_cl_nfos_slfet_ehe_webi_dtaf///REDEFENSE-HARD-METALCORE//-e-edtatfeo-rslarocwltbafh-e-ls",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Nano"
@@ -124,7 +124,7 @@ export default {
         {
           "callsign": "Caviar",
           "alias": "Abdulmalik Simmons",
-          "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
+          "code": "H-teoa-f-l-Vetaahureln-teMsde///TM-DHIYED//Trelorahe-rwtbra--nepydovSeene-hn-if",
           "corpro": "GMS",
           "frame": "Chomolungma",
           "mech": "Weight of the World"
@@ -132,7 +132,7 @@ export default {
         {
           "callsign": "Fullmoon",
           "alias": 'Radojka "Rad-man" Androlewicz',
-          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
+          "code": "I-dnIntw-SvproNrei--s-gPeoof_epkr///TM-DAWNLINE-SHORE//Bfibs-er--authuyesastemt-cr-t-areisoemi",
           "corpro": "GMS",
           "frame": "Sagarmatha",
           "mech": "Space Cowboy"
@@ -140,7 +140,7 @@ export default {
         {
           "callsign": "Grim",
           "alias": "Xiang Juan Sweeting",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
+          "code": "I-w-m-oeelhit-thsemnt-eenishoc-o///TM-LUDRA-STONE//T-tf-ofeiU-eftnblu-gellmrnosyaew",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "A Good Example"
@@ -148,7 +148,7 @@ export default {
         {
           "callsign": "Myrmidon",
           "alias": "Anicet Michelet-Dejardin",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
+          "code": "I-rihtlortslpa-aipKolwu-t--st-e///TM-BOUNDARY-GARDEN//T-lglnaifs-uoatc--eesgunoeHv-ar-eoh",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Mercy Clause"
@@ -156,7 +156,7 @@ export default {
         {
           "callsign": "Samrat",
           "alias": "Amedee Sanmiguel",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
+          "code": "Ie-nr-dHiic-easatrniuhc-sseyC///TM-TBK-SOLO-TERRA//Io-n--tdtdh-reeUis-netSidreo-ocntyo",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Dangerous But Not Unbearably So"
@@ -164,10 +164,18 @@ export default {
         {
           "callsign": "Sapphire",
           "alias": "Kari Bacho",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
+          "code": "It-suttw-mneyub-s-hrolmo-n-ytyd--HeroaiMi///TM-BOUNDARY-GARDEN//Aoc-Sdt-bsRoentaH--oneeUl-d-uOtm",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Unforeseen Impossibilities"
+        },
+        {
+          "callsign": "Ichtaca",
+          "alias": "???",
+          "code": "Tl-wuhlthte-hoeyso---lsruwaeesiy-f///CAUSALITY-METAFOLD-SPACE//W--wsriisc-epthunlseoh-rhomsle-nowao-e",
+          "corpro": "7h3yc0d3d17",
+          "frame": "53cr3tzbyc411s16ns",
+          "mech": "the404"
         },
       ],
       "header": {

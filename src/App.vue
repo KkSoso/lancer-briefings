@@ -179,7 +179,7 @@ export default {
         },
       ],
       "header": {
-        "planet": "None",
+        "planet": "Deep Space",
         "year": "5007u",
         "system": "Ardennes-3",
         "gate": "Atlas-Quanokrim",

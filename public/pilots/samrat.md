@@ -1,5 +1,9 @@
-Raised by a single father, Marlene grew up in a small town on the outskirts of civilization on Enceladus. All throughout her young adult life, she excelled in her academics and loved to tinker with all sorts of robotics. During her time in High School she met the love of her life, Daniel Gatsby, where they bonded over their love of mechs and frames. Shortly after they graduated they married and made a life together working as mechanics for a smalltime mercenary group. As they grew older the idea of starting a family started to become more enticing but they soon found that Marlene was incapable of producing offspring. The two were devastated but after a few months of hardship they realized they only needed each other to be happy. 4 years ago Daniel was killed during an away mission with the Mercenary group leaving Marlene heartbroken. Soon after she left the group. She spent the next 3 years secluded on Io working in a small garage until she was approached by the Mirrorsmoke Mercenary Company. Originally she ignored their offer but she soon started to realize how much she missed tinkering and piloting mechs. Thinking Daniel probably wouldn't want her to ignore her passion and sulk for the rest of her life she took the offer and joined the Company.
+Amedee Sanmiguel. Starship pilot.
 
-## Trivia
+Amedee started life as a respectable member of the Union's Finest. Which Finest, he's never clear on. He cites laws that the Third Committee don't entirely back up, but neither would their older officers refute.
 
-* Is not a nerd like the rest of y'all
+Prying any details about a law out of him is as tricky as hearing about his younger siblings. They'd joined the military to follow in his stead despite his efforts to provide them with Manna for a better life. To avoid splash damage, he held back on a detonator charge when they believed an encampment to be filled with civilians. He had to activate the charges to provide mercy to what was left of his family and crew.
+
+He's never hesitated to pull the trigger since.
+
+He is never without his visor. Even in the communal showers. It isn't waterproof, but there are constant rumors of what lays beneath.

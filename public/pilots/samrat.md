@@ -6,4 +6,4 @@ Prying any details about a law out of him is as tricky as hearing about his youn
 
 He's never hesitated to pull the trigger since.
 
-He is never without his visor. Even in the communal showers. It isn't waterproof, but there are constant rumors of what lays beneath.
+He is never without his visor. Even in the communal showers. It isn't waterproof, yet he always knows when someone is nearby even when he has to fix it. There are constant rumors of what lies beneath - especially with how nervous he gets about the Atlas Line.

@@ -1,5 +1,7 @@
-Raised by a single father, Marlene grew up in a small town on the outskirts of civilization on Enceladus. All throughout her young adult life, she excelled in her academics and loved to tinker with all sorts of robotics. During her time in High School she met the love of her life, Daniel Gatsby, where they bonded over their love of mechs and frames. Shortly after they graduated they married and made a life together working as mechanics for a smalltime mercenary group. As they grew older the idea of starting a family started to become more enticing but they soon found that Marlene was incapable of producing offspring. The two were devastated but after a few months of hardship they realized they only needed each other to be happy. 4 years ago Daniel was killed during an away mission with the Mercenary group leaving Marlene heartbroken. Soon after she left the group. She spent the next 3 years secluded on Io working in a small garage until she was approached by the Mirrorsmoke Mercenary Company. Originally she ignored their offer but she soon started to realize how much she missed tinkering and piloting mechs. Thinking Daniel probably wouldn't want her to ignore her passion and sulk for the rest of her life she took the offer and joined the Company.
+Kari Bacho. Noble.
 
-## Trivia
+At least, she was.
 
-* Is not a nerd like the rest of y'all
+Kari grew up hunting for sport, finding the most vicious ways to eliminate local megafauna - and megaflora - while leaving their best features intact as trophies. She turned to creating specialized weapons and a silent flight suit, hunting snipes, and contrastingly dominating the local ballrooms. Either she's the center of attention or she's nearly as hard to locate as Grim.
+
+Her weapon selection is housed within a core gun frame, with any mounts allowing for interchangeable extensions.
